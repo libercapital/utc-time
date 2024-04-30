@@ -1,3 +1,3 @@
-module github.com/libercapital/utctime.git
+module github.com/libercapital/utctime
 
 go 1.17
